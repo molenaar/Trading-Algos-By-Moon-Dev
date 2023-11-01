@@ -12,3 +12,7 @@ everything i build on youtube, i will post here. currently available:
 3. ethereum capitulation trade
 4. trend is your fren bot
 5. coinglass for liquidation alpha
+6. demand zone funding rate algo
+7. breakout wick trading algo
+8. first hour vs last hour algo
+9. first hour breakout algo
